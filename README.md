@@ -1,4 +1,4 @@
-# Bachelor's Thesis
+# Thesis Repository: Financial Ratios, Valuation Multiples & Life Cycle Stages in Tech
 
 This repository contains the complete Python codebase used for the empirical analysis in the thesis on the topic
 
