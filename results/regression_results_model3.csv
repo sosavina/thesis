@@ -1,0 +1,19 @@
+,Coefficient,Std. Error,P-Value
+const,0.749,0.509,0.142
+roa,-1.007,0.589,0.088
+current_ratio,0.038,0.021,0.07
+debt_assets,0.563,0.137,0.0
+asset_turnover,-0.609,0.131,0.0
+log_total_assets,0.028,0.018,0.126
+revenue_growth,0.335,0.202,0.099
+r_and_d_ratio,2.344,0.404,0.0
+capex_ratio,-1.707,1.006,0.09
+ocf_margin,0.843,0.466,0.071
+lifecycle_stage_Maturity,-0.147,0.082,0.073
+lifecycle_stage_Decline,-0.172,0.099,0.083
+roa_maturity,2.651,0.708,0.0
+roa_decline,0.944,0.828,0.255
+Observations,379,,
+R²,0.39,,
+Adjusted R²,0.359,,
+Year FE,Yes,,

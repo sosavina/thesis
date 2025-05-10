@@ -1,0 +1,15 @@
+,Coefficient,Std. Error,P-Value
+const,0.424,0.497,0.394
+roa,-0.246,0.519,0.636
+current_ratio,0.047,0.02,0.021
+debt_assets,0.45,0.15,0.003
+asset_turnover,-0.527,0.137,0.0
+log_total_assets,0.037,0.019,0.051
+revenue_growth,0.382,0.218,0.081
+r_and_d_ratio,2.502,0.398,0.0
+capex_ratio,-1.361,1.064,0.202
+ocf_margin,0.769,0.45,0.088
+Observations,379,,
+R²,0.337,,
+Adjusted R²,0.312,,
+Year FE,Yes,,
