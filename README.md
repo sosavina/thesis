@@ -21,7 +21,7 @@ This project investigates how key financial ratios influence valuation multiples
 The project includes:
 
 - **Automated data collection** from the SEC EDGAR API, Yahoo Finance, and StockAnalysis.com  
-- **Financial ratio calculation** (ROA, liquidity, leverage, efficiency, and others)  
+- **Financial ratio calculation** (profitability, liquidity, leverage, efficiency, and others)  
 - **Life cycle classification** based on the **Dickinson (2011)** cash flow pattern framework  
 - **Panel regression models** with year fixed effects to test hypothesis  
 - **Descriptive statistics and visualizations** of financial variable distributions and dynamics
@@ -37,8 +37,8 @@ The project includes:
 
 The code estimates three panel regression models with year fixed effects:
 1. **Baseline model**: Financial ratios only  
-2. **Stage-adjusted model**: Financial ratios + life cycle dummies  
-3. **Interaction model**: Financial ratios × life cycle stages  
+2. **Life cycle model**: Financial ratios + life cycle dummies  
+3. **Interactions model**: Financial ratios × life cycle stages  
 
 Each model's outputs (coefficients, standard errors, R², adjusted R²) are saved as `.csv` and `.png` files.
 
